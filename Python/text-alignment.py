@@ -1,6 +1,6 @@
-\#Replace all ______ with rjust, ljust or center.
+#Replace all ______ with rjust, ljust or center.
 
-thickness = int(input())
+thickness = int(5)
 c = 'H'
 
 #Top Cone
